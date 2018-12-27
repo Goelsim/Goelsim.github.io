@@ -74,7 +74,7 @@ section.container .row {
   display: flex;
   align-items: center;
   height: 400px;
-  background-image: url("file:///D:/SIMRAN/project/am.gif");
+  background-image: url("am.gif");
   background-size: cover;
   background-position: center;
 
