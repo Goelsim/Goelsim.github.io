@@ -70,7 +70,7 @@ section.container .row {
   display: flex;
   align-items: center;
   height: 350px;
-  background-image: url("file:///D:/SIMRAN/project/1.jpg");
+  background-image: url("1.jpg");
   background-size: cover;
   background-position: center;
 }
